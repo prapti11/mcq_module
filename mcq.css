@@ -1,0 +1,14 @@
+h1
+{
+	text-align: center;
+	font-family: cursive;
+	font-size: 50px;
+	margin-top: 180px;
+}
+.navbar-brand{
+	font-size: 30px;
+}
+img{
+	float: left;
+	margin-left: 40px ;
+}

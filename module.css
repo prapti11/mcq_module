@@ -1,0 +1,79 @@
+.floatleft{
+	float: left;
+	display: inline-block;
+	box-shadow:  0px 0px 5px #888888;
+	background-color: silver;
+	width: 40%;
+	padding: 20px;
+	border-radius: 10px;
+height: 500px;
+margin-left: 20px;
+}
+.floatright{
+	float: right;
+	display: inline-block;
+	box-shadow: 0px 0px 5px #888888;
+	background-color: gold;
+	width: 55%;
+	padding: 20px;
+	border-radius: 10px;
+	height:500px; 
+	margin-right: 20px;
+}
+.box{
+	align-content: center;
+	border-radius:10px;
+	box-shadow: 0px 0px 10px #888888;
+    margin :25px 100px;
+    padding: 30px;
+
+
+}
+.circle{
+ border-radius: 50%;
+    width: 40px; 
+    font-size: 20px;
+    border: 2px solid #666;
+    padding: 5px;
+    margin: 5px;
+    text-align: center;
+    display: inline-block;
+    background-color: white;
+    color: black;
+}
+.wrap{
+	width:100%;
+}
+h4{
+	font-size: 40px;
+	font-family: times;
+}
+#cd{
+	
+	margin-top: 10px;
+}
+.ab{
+	font-size: 30px;
+	font-family: times;
+}
+.navbar-brand{
+	font-size: 30px;
+}
+.btn{
+
+margin-top: 100px;
+padding: 15px;
+display: inline-block;
+border:1px solid black;
+border-radius: 5px;
+}
+.info{
+	font-size: 25px;
+}
+.info:hover{
+	background-color: grey;
+	color: black;
+}
+.as{
+	text-align: center; margin-left: 350px;
+}
