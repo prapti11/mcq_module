@@ -1,0 +1,35 @@
+input[type=text],input[type=Password],select{
+	width: 80%;
+	border: 1px solid black;
+	border-radius: 4px;
+	padding: 10px ;
+	margin: 8px 10px;
+	display: inline-block;
+	box-sizing: border-box;
+}
+div{
+margin-right: 100px;
+background-color: rgb(185,185,185);
+border-radius: 10px;
+padding: 20px;
+margin-left: 100px;
+}
+input[type=submit]{
+	width: 20%;
+border:1px solid grey;
+border-radius: 10px;
+padding: 10px;
+cursor: pointer;
+background-color: black;
+color: white;
+margin-left: 350px;
+margin-top: 15px;
+}
+input[type=submit]:hover{
+	background-color: white;
+	color: black;
+}
+.ab{
+	font-size: 25px;
+	font-family: cursive;
+}
